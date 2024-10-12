@@ -17,8 +17,8 @@ FlashCard is an app that allows users to create their own flashcards for learnin
 * Evaluate the user's achievment; how many card user guess correctly.
 
 ## User Interface
-<img height="400" src="https://github.com/user-attachments/assets/5daa9009-2f50-4c53-b698-44e1f2a7fdf1">
-<img height="400" src="https://github.com/user-attachments/assets/e503e43e-ed6f-4f45-96f4-fdde341f8bb0">
-<img height="400" src="https://github.com/user-attachments/assets/e5e687c7-bd89-4a33-8bac-d524b0c91b96">
-<img height="400" src="https://github.com/user-attachments/assets/f01edfa8-b01c-4780-bc0a-b73f993dab41">
-<img height="400" src="https://github.com/user-attachments/assets/127568c4-ca89-4116-8651-b80ba356569f">
+<img height="400" src="https://github.com/Namkhengsai/FlashCard/blob/main/FlashCardscreenshort-1.png">
+<img height="400" src="https://github.com/Namkhengsai/FlashCard/blob/main/FlashCardscreenshort-2.png">
+<img height="400" src="https://github.com/Namkhengsai/FlashCard/blob/main/FlashCardscreenshort-3.png">
+<img height="400" src="https://github.com/Namkhengsai/FlashCard/blob/main/FlashCardscreenshort-4.png">
+<img height="400" src="https://github.com/Namkhengsai/FlashCard/blob/main/FlashCardscreenshort-5.png">
